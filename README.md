@@ -57,6 +57,8 @@
 
 - `statcomp` - Statistical Computing, BIOS 735 - Introduction to Statistical Computing. http://biodatascience.github.io/statcomp, https://github.com/biodatascience/statcomp, https://github.com/biodatascience/statcomp_src
 
+- `thinkstats` - Statistical Thinking for the 21st Century. Book, http://statsthinking21.org/, and GitHub, https://github.com/psych10/thinkstats
+
 - `WinVector.github.io` - Various statistical topics with R and Python examples. "IntroductionToDataScience" course. https://winvector.github.io/ - web-facing pages, https://github.com/WinVector/WinVector.github.io/ - github repo
 
 - `www_stat_cmu_edu_cshalizi_350` - Statistics 36-350: Data Mining by Cosma Shalizi. http://www.stat.cmu.edu/~cshalizi/350/
