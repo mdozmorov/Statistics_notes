@@ -48,6 +48,8 @@
 
 - `PractitionerGuidetoMultiplicity` - Practical Guide for Multiple testing, https://github.com/johnros/PractitionerGuidetoMultiplicity
 
+- `Probabilistic-Programming-and-Bayesian-Methods-for-Hackers` - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python. https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+
 - `rethinking` - Statistical Rethinking course and book package, Richard McElreath. https://github.com/rmcelreath/rethinking. [Andrew Gelman's note about the book](https://andrewgelman.com/2016/01/15/mcelreaths-statistial-rethinking-a-bayesian-course-with-examples-in-r-and-stan/), [Video lectures](https://www.youtube.com/watch?v=kSgqH_eD1-0&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc). GitHub with slides and links to video lectures, https://github.com/rmcelreath/statrethinking_winter2019
     - `Statistical-Rethinking` - An interactive online reading of McElreath's "Statistical Rethinking: A Bayesian Course with Examples in R and Stan" by Levi Waldron. https://github.com/lwaldron/Statistical-Rethinking
 
@@ -126,3 +128,5 @@
 - `Goeman.pdf` - STATISTICAL METHODS FOR MICROARRAY DATA
 - `MPR04.pdf` - Introduction to Statistical Methods for Microarray Data Analysis
 - `linear_tests_cheat_sheet.pdf` - Common statistical tests are linear models (or: how to teach stats), https://lindeloev.github.io/tests-as-linear/
+
+- How to Do Mediation Scientifically. https://blog.methodsconsultants.com/posts/how-to-do-mediation-scientifically/
