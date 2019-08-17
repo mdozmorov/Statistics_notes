@@ -42,7 +42,7 @@
 
 - `Kalman-and-Bayesian-Filters-in-Python` - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 
-- `OpenIntro-Statistics` - An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant. https://www.openintro.org/stat/os4.php, https://github.com/OpenIntroOrg/openintro-statistics
+- `OpenIntro-Statistics` - An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant. https://www.openintro.org, https://github.com/OpenIntroOrg/openintro-statistics. Videos, https://www.youtube.com/user/bleue894/playlists, slides, https://github.com/OpenIntroStat/openintro-statistics-slides
 
 - `practicing_R` - R and statistics, https://github.com/johnros/practicing_R
 
