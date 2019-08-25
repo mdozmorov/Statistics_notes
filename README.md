@@ -130,3 +130,6 @@
 - `linear_tests_cheat_sheet.pdf` - Common statistical tests are linear models (or: how to teach stats), https://lindeloev.github.io/tests-as-linear/
 
 - How to Do Mediation Scientifically. https://blog.methodsconsultants.com/posts/how-to-do-mediation-scientifically/
+
+- [Calculus resources](https://brohrer.github.io/calculus_resources.html), [Python resources](https://brohrer.github.io/python_resources.html), [Linear algebra resources](https://brohrer.github.io/linear_algebra_resources.html) by Brandon Rorher. [Source](https://twitter.com/_brohrer_/status/1163423524079452163?s=03)
+
