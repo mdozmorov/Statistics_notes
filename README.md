@@ -11,9 +11,9 @@
 
 ## Cheatsheets
 
+- `probability_cheatsheet` - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. http://www.wzchen.com/probability-cheatsheetб https://github.com/wzchen/probability_cheatsheet
+
 - `linear_tests_cheat_sheet.pdf` - Common statistical tests are linear models (or: how to teach stats), https://lindeloev.github.io/tests-as-linear/
-
-
 
 ## Repositories
 
