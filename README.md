@@ -98,6 +98,8 @@
 
 ## Books
 
+- "Introduction to Applied Linear Algebra" by Stephen Boyd & Lieven Vandenberghe, http://vmls-book.stanford.edu/, [vmls.pdf](http://vmls-book.stanford.edu/vmls.pdf). Includes [examples in Julia](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
+
 - "Advanced Statistical Computing" by Roger D. Peng. https://bookdown.org/rdpeng/advstatcomp/
 
 - "Modern Statistics for Modern Biology" book by Susan Holmes and Wolfgang Huber. Data and code provided. https://www.huber.embl.de/msmb/index.html
