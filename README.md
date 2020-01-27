@@ -21,7 +21,7 @@
 
 - `bayesian-basics` - Bayesian data analysis introduction. [https://m-clark.github.io/bayesian-basics/](https://m-clark.github.io/bayesian-basics/), [https://github.com/m-clark/bayesian-basics](https://github.com/m-clark/bayesian-basics)
 
-- `brr` - "Biostatistics for Biomedical Research" by Frank Harrell, the creator of `Hmisc` package and many more. [https://github.com/harrelfe/bbr](https://github.com/harrelfe/bbr)
+- `brr` - "Biostatistics for Biomedical Research" by Frank Harrell, the creator of `Hmisc` package and many more. [https://github.com/harrelfe/bbr](https://github.com/harrelfe/bbr). Video lectures, https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA
 
 - `BIOS2` - Biostatistics 621 / 821 course by Levi Waldron. Classical statistics, from all aspects of regression, survival analysis to dimensionality reduction basics. iPython and R. [https://github.com/waldronlab/BIOS2](https://github.com/waldronlab/BIOS2)
 
