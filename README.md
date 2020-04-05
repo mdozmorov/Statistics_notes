@@ -74,6 +74,8 @@
 
 ## Courses
 
+- Bayesian Data Analysis at Aalto (CS-E5710) course material, slides, video lectures, code demos, assignments https://github.com/avehtari/BDA_course_Aalto
+
 - CS229T/STATS231: Statistical Learning Theory, Stanford / Autumn 2018-2019. "Texts and References" section has a good set of course notes and links.  [https://web.stanford.edu/class/cs229t/](https://web.stanford.edu/class/cs229t/)
 
 - The Coursera Class: Statistics One, by Princeton [https://github.com/svkerr/Statistics_Class_Princeton](https://github.com/svkerr/Statistics_Class_Princeton)
