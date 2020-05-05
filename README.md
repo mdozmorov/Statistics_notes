@@ -126,6 +126,8 @@
 
 ## Misc
 
+- [Introduction to linear mixed models](https://ourcodingclub.github.io/tutorials/mixed-models/) - mixed and random effects, R syntax. [GitHub](https://github.com/ourcodingclub/CC-Linear-mixed-models)
+
 - "A Brief Introduction to Graphical Models and Bayesian Networks" By Kevin Murphy, 1998. http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
 
 - "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. [https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
