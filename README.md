@@ -76,6 +76,8 @@
 
 ## Courses
 
+- [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course) - Python notebooks with applied examples and explanations
+
 - Bayesian Data Analysis at Aalto (CS-E5710) course material, slides, video lectures, code demos, assignments https://github.com/avehtari/BDA_course_Aalto
 
 - CS229T/STATS231: Statistical Learning Theory, Stanford / Autumn 2018-2019. "Texts and References" section has a good set of course notes and links.  [https://web.stanford.edu/class/cs229t/](https://web.stanford.edu/class/cs229t/)
