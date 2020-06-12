@@ -15,6 +15,8 @@
 
 - `linear_tests_cheat_sheet.pdf` - Common statistical tests are linear models (or: how to teach stats), https://lindeloev.github.io/tests-as-linear/
 
+- [Resources for learning about the history of statistics and statisticians. By statisticians, for statisticians](https://github.com/sctyner/history_of_statistics) - references to blog posts, books, journal articles, podcasts, interviews, news, and other material about the history of statistics
+
 ## Repositories
 
 - `awesome-bayes` - List of resources for bayesian inference. https://github.com/dimenwarper/awesome-bayes
