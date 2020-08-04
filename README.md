@@ -19,7 +19,7 @@
 
 ## Repositories
 
-- `awesome-bayes` - List of resources for bayesian inference. https://github.com/dimenwarper/awesome-bayes
+- `awesome-bayes` - List of resources for bayesian inference. https://github.com/dimenwarper/awesome-bayespwdd
 
 - `bayesian-basics` - Bayesian data analysis introduction. [https://m-clark.github.io/bayesian-basics/](https://m-clark.github.io/bayesian-basics/), [https://github.com/m-clark/bayesian-basics](https://github.com/m-clark/bayesian-basics)
 
@@ -131,6 +131,8 @@
 - "Data Science Live Book" by Pablo Casas, from exploratory data analysis to regression/classification. https://livebook.datascienceheroes.com/
 
 ## Misc
+
+- [How Linear Mixed Model Works](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911) by Nikolay Oskolkov
 
 - [Introduction to linear mixed models](https://ourcodingclub.github.io/tutorials/mixed-models/) - mixed and random effects, R syntax. [GitHub](https://github.com/ourcodingclub/CC-Linear-mixed-models)
 
