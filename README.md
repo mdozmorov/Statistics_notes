@@ -1,13 +1,19 @@
-# Statistics, data analysis tutorials and learning resources
+# Statisticstutorials and learning resources
 
-# Table of content
+Statistics learning and data analysis resources. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.# Table of content
 
-* [Cheatsheets](#cheatsheets)
-* [Repositories](#repositories)
-* [Courses](#courses)
-* [Videos](#videos)
-* [Books](#books)
-* [Misc](#misc)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Cheatsheets](#cheatsheets)
+- [Repositories](#repositories)
+- [Courses](#courses)
+- [Videos](#videos)
+- [Books](#books)
+- [Misc](#misc)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Cheatsheets
 
@@ -78,6 +84,8 @@
 
 ## Courses
 
+- [BIOS 735 - Introduction to Statistical Computing](https://biodatascience.github.io/statcomp/) - Statistical concepts in R, by Naim Rashid. [GitHub](https://github.com/biodatascience/statcomp_src)
+
 - [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course) - Python notebooks with applied examples and explanations
 
 - Bayesian Data Analysis at Aalto (CS-E5710) course material, slides, video lectures, code demos, assignments https://github.com/avehtari/BDA_course_Aalto
@@ -129,6 +137,9 @@
 - "An introduction to psychometric theory with applications in R" by William Revelle, the creator of `psych` R package. The book with downloadable PDFs: [http://personality-project.org/r/book/](http://personality-project.org/r/book/), the course based on the book: [http://personality-project.org/revelle/syllabi/405.syllabus.html](http://personality-project.org/revelle/syllabi/405.syllabus.html), and the `psych` R package: [https://cran.r-project.org/web/packages/psych/index.html](https://cran.r-project.org/web/packages/psych/index.html)
 
 - "Data Science Live Book" by Pablo Casas, from exploratory data analysis to regression/classification. https://livebook.datascienceheroes.com/
+
+- [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) book by Cosma Rohilla Shalizi, PDF, 828 pages. Statistics, with R examples
+
 
 ## Misc
 
