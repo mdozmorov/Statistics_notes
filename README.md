@@ -1,5 +1,7 @@
 # Statisticstutorials and learning resources
 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+
 Statistics learning and data analysis resources. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.# Table of content
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
