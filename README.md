@@ -86,6 +86,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Courses
 
+- [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) Fall 2020 course by Brady Neal. Video, lecture material. [Twitter](https://twitter.com/CasualBrady/status/1297626885481017345?s=20)
+
 - [BIOS 735 - Introduction to Statistical Computing](https://biodatascience.github.io/statcomp/) - Statistical concepts in R, by Naim Rashid. [GitHub](https://github.com/biodatascience/statcomp_src)
 
 - [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course) - Python notebooks with applied examples and explanations
