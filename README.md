@@ -153,7 +153,7 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - "A Brief Introduction to Graphical Models and Bayesian Networks" By Kevin Murphy, 1998. http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
 
-- "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. [https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view
 
 - Bayesian Data Analysis demos for Python. [https://github.com/avehtari/BDA_py_demos](https://github.com/avehtari/BDA_py_demos)
 
