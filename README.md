@@ -106,6 +106,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - Advanced data analysis techniques, CVEN 6833, Dr. R. Balaji. Lots of material and links on regression and modeling techniques. [http://civil.colorado.edu/~balajir/CVEN6833/](http://civil.colorado.edu/~balajir/CVEN6833/)
 
+- [Econometrics Academy](https://sites.google.com/site/econometricsacademy/econometrics-models) - main statistical methods, examples in R and SAS, short video tutorials
+
 ## Videos
 
 - MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018, by Gilbert Strang, https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
