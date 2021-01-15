@@ -122,6 +122,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Books
 
+- [Probabilistic Machine Learning](https://github.com/probml/pml-book) - a book series by Kevin Murphy. GitHub repo with links to buy and PDF download
+
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman and George Athanasopoulos, Monash University, Australia. R-based examples. [Tweet](https://twitter.com/seandavis12/status/1267865789396406272?s=20)
 
 - "Introduction to Applied Linear Algebra" by Stephen Boyd & Lieven Vandenberghe, http://vmls-book.stanford.edu/, [vmls.pdf](http://vmls-book.stanford.edu/vmls.pdf). Includes [examples in Julia](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
