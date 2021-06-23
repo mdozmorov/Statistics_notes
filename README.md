@@ -122,6 +122,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Books
 
+- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com) by Alicia A. Johnson, Miles Ott, Mine Dogucu. [Tweet](https://twitter.com/Miles_Ott/status/1407101386437926913?s=20)
+
 - [Probabilistic Machine Learning](https://github.com/probml/pml-book) - a book series by Kevin Murphy. GitHub repo with links to buy and PDF download
 
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman and George Athanasopoulos, Monash University, Australia. R-based examples. [Tweet](https://twitter.com/seandavis12/status/1267865789396406272?s=20)
