@@ -122,6 +122,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Books
 
+- [An Introduction to Statistical Learning](https://www.statlearning.com) - classic stats learning book by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
+
 - [practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists) - Practical Statistics for Data Scientists, 50+ Essential Concepts Using R and Python, by Peter Bruce, Andrew Bruce, and Peter Gedeck. Code repository for O'Reilly book
 
 - [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com) by Alicia A. Johnson, Miles Ott, Mine Dogucu. [Tweet](https://twitter.com/Miles_Ott/status/1407101386437926913?s=20)
