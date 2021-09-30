@@ -13,6 +13,7 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - [Courses](#courses)
 - [Videos](#videos)
 - [Books](#books)
+- [Linear algebra](#linear-algebra)
 - [Misc](#misc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -58,8 +59,6 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - `ISAT 251 Intro to Statistics with R` - basic statistics by Nicole Radziwill
 
 - `ISLR` - An Introduction to Statistical Learning with Applications in R (ISLR). The book, R code  and the data are available at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/). Videos and slides are at [https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/). Slides are also available at [https://www.alsharif.info/iom530](https://www.alsharif.info/iom530)
-
-- `numerical-linear-algebra` - Computational Linear Algebra for Coders. Course itself, http://www.fast.ai/2017/07/17/num-lin-alg/, video series, https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY, git repository, https://github.com/fastai/numerical-linear-algebra
 
 - `Kalman-and-Bayesian-Filters-in-Python` - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 
@@ -132,8 +131,6 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman and George Athanasopoulos, Monash University, Australia. R-based examples. [Tweet](https://twitter.com/seandavis12/status/1267865789396406272?s=20)
 
-- "Introduction to Applied Linear Algebra" by Stephen Boyd & Lieven Vandenberghe, http://vmls-book.stanford.edu/, [vmls.pdf](http://vmls-book.stanford.edu/vmls.pdf). Includes [examples in Julia](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
-
 - "Advanced Statistical Computing" by Roger D. Peng. https://bookdown.org/rdpeng/advstatcomp/
 
 - "Modern Statistics for Modern Biology" book by Susan Holmes and Wolfgang Huber. Data and code provided. https://www.huber.embl.de/msmb/index.html
@@ -155,6 +152,15 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - "Data Science Live Book" by Pablo Casas, from exploratory data analysis to regression/classification. https://livebook.datascienceheroes.com/
 
 - [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) book by Cosma Rohilla Shalizi, PDF, 828 pages. Statistics, with R examples
+
+## Linear algebra
+
+- [Calculus resources](https://brohrer.github.io/calculus_resources.html), [Python resources](https://brohrer.github.io/python_resources.html), [Linear algebra resources](https://brohrer.github.io/linear_algebra_resources.html) by Brandon Rorher. [Source](https://twitter.com/_brohrer_/status/1163423524079452163?s=03)
+
+- "Introduction to Applied Linear Algebra" by Stephen Boyd & Lieven Vandenberghe, http://vmls-book.stanford.edu/, [vmls.pdf](http://vmls-book.stanford.edu/vmls.pdf). Includes [examples in Julia](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
+
+- [numerical-linear-algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) - Computational Linear Algebra for Coders by FastAI. [Video series](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY), [GitHub](https://github.com/fastai/numerical-linear-algebra)
+
 
 
 ## Misc
@@ -180,5 +186,5 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - How to Do Mediation Scientifically. https://blog.methodsconsultants.com/posts/how-to-do-mediation-scientifically/
 
-- [Calculus resources](https://brohrer.github.io/calculus_resources.html), [Python resources](https://brohrer.github.io/python_resources.html), [Linear algebra resources](https://brohrer.github.io/linear_algebra_resources.html) by Brandon Rorher. [Source](https://twitter.com/_brohrer_/status/1163423524079452163?s=03)
+
 
