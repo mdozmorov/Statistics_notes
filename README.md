@@ -155,6 +155,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Linear algebra
 
+- [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+
 - [Calculus resources](https://brohrer.github.io/calculus_resources.html), [Python resources](https://brohrer.github.io/python_resources.html), [Linear algebra resources](https://brohrer.github.io/linear_algebra_resources.html) by Brandon Rorher. [Source](https://twitter.com/_brohrer_/status/1163423524079452163?s=03)
 
 - "Introduction to Applied Linear Algebra" by Stephen Boyd & Lieven Vandenberghe, http://vmls-book.stanford.edu/, [vmls.pdf](http://vmls-book.stanford.edu/vmls.pdf). Includes [examples in Julia](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
