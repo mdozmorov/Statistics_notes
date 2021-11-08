@@ -87,6 +87,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Courses
 
+- [intro-gam-webinar-2020](https://github.com/gavinsimpson/intro-gam-webinar-2020) - Introduction to Generalized Additive Models with R and mgcv, by Gavin Simpson. Video, slides, code
+
 - [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) Fall 2020 course by Brady Neal. Video, lecture material. [Twitter](https://twitter.com/CasualBrady/status/1297626885481017345?s=20)
 
 - [BIOS 735 - Introduction to Statistical Computing](https://biodatascience.github.io/statcomp/) - Statistical concepts in R, by Naim Rashid. [GitHub](https://github.com/biodatascience/statcomp_src)
