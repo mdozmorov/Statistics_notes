@@ -171,6 +171,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Misc
 
+- [MANOVA(Multivariate Analysis of Variance) using R](https://www.statisticalaid.com/manova-using-r/) by [Statistical Aid](https://www.statisticalaid.com/)
+
 - [How Linear Mixed Model Works](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911) by Nikolay Oskolkov
 
 - [Introduction to linear mixed models](https://ourcodingclub.github.io/tutorials/mixed-models/) - mixed and random effects, R syntax. [GitHub](https://github.com/ourcodingclub/CC-Linear-mixed-models)
