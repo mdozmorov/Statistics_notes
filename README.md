@@ -123,6 +123,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Books
 
+- [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) - book by Nick Huntington-Klein intended to introduce the concepts of research design and causality in the context of observational data. [GitHub](https://github.com/NickCH-K/causalbook), accompanying [Videos](https://nickchk.com/videos.html).
+
 - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) - book by Carl Edward Rasmussen and Christopher K. I. Williams. 
 
 - [An Introduction to Statistical Learning](https://www.statlearning.com) - classic stats learning book by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
