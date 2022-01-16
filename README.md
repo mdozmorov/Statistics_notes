@@ -70,9 +70,6 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - `Probabilistic-Programming-and-Bayesian-Methods-for-Hackers` - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python. https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
-- `rethinking` - Statistical Rethinking course and book package, Richard McElreath. https://github.com/rmcelreath/rethinking. [Andrew Gelman's note about the book](https://andrewgelman.com/2016/01/15/mcelreaths-statistial-rethinking-a-bayesian-course-with-examples-in-r-and-stan/), [Video lectures](https://www.youtube.com/watch?v=kSgqH_eD1-0&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc). GitHub with slides and links to video lectures, https://github.com/rmcelreath/statrethinking_winter2019
-    - `Statistical-Rethinking` - An interactive online reading of McElreath's "Statistical Rethinking: A Bayesian Course with Examples in R and Stan" by Levi Waldron. https://github.com/lwaldron/Statistical-Rethinking
-
 - `stat540_2014` - STAT540 Statistical Methods for High Dimensional Biology course by Jenny Bryan
 
 - `stat401A` - conscise statistical refresher by Jarad Niemi, STAT 401A course at Iowa State University. [https://github.com/jarad/stat401A](https://github.com/jarad/stat401A). Jarad's web-site with more statistical courses STAT 544 and STAT 615 [http://www.jarad.me/courses/](http://www.jarad.me/courses/)
@@ -122,6 +119,9 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - Statistics 110: Probability, by Joe Blitzstein, https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo. The book "Introduction to Probability" https://twitter.com/stat110/status/1101502622358556674
 
 ## Books
+
+- [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking book and course, by Richard McElreath, 2022 edition. Slides, videos. Original [rethinking](https://github.com/rmcelreath/rethinking) GitHub repo. [Andrew Gelman's note about the book](https://andrewgelman.com/2016/01/15/mcelreaths-statistial-rethinking-a-bayesian-course-with-examples-in-r-and-stan/), [Video lectures](https://www.youtube.com/watch?v=kSgqH_eD1-0&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc).
+    - `Statistical-Rethinking` - An interactive online reading of McElreath's "Statistical Rethinking: A Bayesian Course with Examples in R and Stan" by Levi Waldron. https://github.com/lwaldron/Statistical-Rethinking
 
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) - book by Nick Huntington-Klein intended to introduce the concepts of research design and causality in the context of observational data. [GitHub](https://github.com/NickCH-K/causalbook), accompanying [Videos](https://nickchk.com/videos.html).
 
