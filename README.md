@@ -1,45 +1,84 @@
-# Statisticstutorials and learning resources
+# Statistics tutorials and learning resources
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-Statistics learning and data analysis resources. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.# Table of content
+Statistics learning and data analysis resources. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
+
+# Table of content
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
 - [Cheatsheets](#cheatsheets)
+- [Bayesian](#bayesian)
+- [Mixed models](#mixed-models)
 - [Repositories](#repositories)
 - [Courses](#courses)
 - [Videos](#videos)
 - [Books](#books)
 - [Linear algebra](#linear-algebra)
-- [Mixed models](#mixed-models)
 - [Misc](#misc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Cheatsheets
 
-- `probability_cheatsheet` - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. http://www.wzchen.com/probability-cheatsheetб https://github.com/wzchen/probability_cheatsheet
-
-- `linear_tests_cheat_sheet.pdf` - Common statistical tests are linear models (or: how to teach stats), https://lindeloev.github.io/tests-as-linear/
-
-- [Resources for learning about the history of statistics and statisticians. By statisticians, for statisticians](https://github.com/sctyner/history_of_statistics) - references to blog posts, books, journal articles, podcasts, interviews, news, and other material about the history of statistics
+- [probability_cheatsheet](http://www.wzchen.com/probability-cheatsheetб https://github.com/wzchen/probability_cheatsheet) - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. 
 
 - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 
+- [Resources for learning about the history of statistics and statisticians. By statisticians, for statisticians](https://github.com/sctyner/history_of_statistics) - references to blog posts, books, journal articles, podcasts, interviews, news, and other material about the history of statistics
+
+## Bayesian
+
+- [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking book and course, by Richard McElreath, 2022 edition. Slides, videos. Original [rethinking](https://github.com/rmcelreath/rethinking) GitHub repo. [Andrew Gelman's note about the book](https://andrewgelman.com/2016/01/15/mcelreaths-statistial-rethinking-a-bayesian-course-with-examples-in-r-and-stan/), [Video lectures](https://www.youtube.com/watch?v=kSgqH_eD1-0&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc).
+    - `Statistical-Rethinking` - An interactive online reading of McElreath's "Statistical Rethinking: A Bayesian Course with Examples in R and Stan" by Levi Waldron. https://github.com/lwaldron/Statistical-Rethinking
+
+- [A Brief Introduction to Graphical Models and Bayesian Networks](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html), by Kevin Murphy, 1998.
+
+- [A Student's Guide to Bayesian Statistics](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG), by Ben Lambert . More Bayesian Class [Videos](https://discourse.mc-stan.org/t/bayesian-class-videos/3173)
+
+- [A Bayesian Course with Examples in R and Stan](http://xcelab.net/rm/statistical-rethinking/) book sample. Link to the full [video lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z)
+
+- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view
+
+- [Bayesian Data Analysis demos for Python](https://github.com/avehtari/BDA_py_demos)
+
+- [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) - A Python tutorial on bayesian modeling techniques (PyMC3)
+
+- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com) by Alicia A. Johnson, Miles Ott, Mine Dogucu. [Tweet](https://twitter.com/Miles_Ott/status/1407101386437926913?s=20)
+
+- [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course) - Python notebooks with applied examples and explanations
+
+- [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python. 
+
+- [Bayesian Data Analysis at Aalto (CS-E5710)](https://github.com/avehtari/BDA_course_Aalto) course material, slides, video lectures, code demos, assignments 
+
+- [awesome-bayes](https://github.com/dimenwarper/awesome-bayespwdd) - List of resources for bayesian inference.
+
+- [bayesian-basics/](https://m-clark.github.io/bayesian-basics/) - Bayesian data analysis introduction by Michael Clarl. [GitHub](https://github.com/m-clark/bayesian-basics)
+
+- [book](https://github.com/StatsWithR/book) - a written companion for the Course 'Bayesian Statistics' from the Statistics with R specialization available on Coursera.
+
+- [understanding-bayes/](http://alexanderetz.com/understanding-bayes/) - "Understanding Bayes" series of blog posts by Alex Etz. The other posts are also worth reading.
+
+## Mixed models
+
+- [Mixed Models with R](https://m-clark.github.io/mixed-models-with-R/), Getting started with random effects, by [Michael Clark](http://m-clark.github.io). [GitHub](https://github.com/m-clark/mixed-models-with-R), [Tweet](https://twitter.com/statsdatasci/status/1483089238925185025?s=20).
+
+- [How Linear Mixed Model Works](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911) by Nikolay Oskolkov
+
+- [Introduction to linear mixed models](https://ourcodingclub.github.io/tutorials/mixed-models/) - mixed and random effects, R syntax. [GitHub](https://github.com/ourcodingclub/CC-Linear-mixed-models)
+
+- `CC-Linear-mixed-models` - Introduction to linear mixed models, https://ourcodingclub.github.io/tutorials/mixed-models/, https://github.com/ourcodingclub/CC-Linear-mixed-models
+
+
 ## Repositories
-
-- `awesome-bayes` - List of resources for bayesian inference. https://github.com/dimenwarper/awesome-bayespwdd
-
-- `bayesian-basics` - Bayesian data analysis introduction. [https://m-clark.github.io/bayesian-basics/](https://m-clark.github.io/bayesian-basics/), [https://github.com/m-clark/bayesian-basics](https://github.com/m-clark/bayesian-basics)
 
 - `brr` - "Biostatistics for Biomedical Research" by Frank Harrell, the creator of `Hmisc` package and many more. [https://github.com/harrelfe/bbr](https://github.com/harrelfe/bbr). Video lectures, https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA
 
 - `BIOS2` - Biostatistics 621 / 821 course by Levi Waldron. Classical statistics, from all aspects of regression, survival analysis to dimensionality reduction basics. iPython and R. [https://github.com/waldronlab/BIOS2](https://github.com/waldronlab/BIOS2)
-
-- `book` - a written companion for the Course 'Bayesian Statistics' from the Statistics with R specialization available on Coursera, [https://github.com/StatsWithR/book](https://github.com/StatsWithR/book)
 
 - `book_sample` - Another Book on Data Science. Learn R and Python in Parallel. Web, https://www.anotherbookondatascience.com/, GitHub, https://github.com/rnorm/book_sample
 
@@ -67,8 +106,6 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - `PractitionerGuidetoMultiplicity` - Practical Guide for Multiple testing, https://github.com/johnros/PractitionerGuidetoMultiplicity
 
-- `Probabilistic-Programming-and-Bayesian-Methods-for-Hackers` - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python. https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-
 - `stat540_2014` - STAT540 Statistical Methods for High Dimensional Biology course by Jenny Bryan
 
 - `stat401A` - conscise statistical refresher by Jarad Niemi, STAT 401A course at Iowa State University. [https://github.com/jarad/stat401A](https://github.com/jarad/stat401A). Jarad's web-site with more statistical courses STAT 544 and STAT 615 [http://www.jarad.me/courses/](http://www.jarad.me/courses/)
@@ -89,10 +126,6 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - [BIOS 735 - Introduction to Statistical Computing](https://biodatascience.github.io/statcomp/) - Statistical concepts in R, by Naim Rashid. [GitHub](https://github.com/biodatascience/statcomp_src)
 
-- [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course) - Python notebooks with applied examples and explanations
-
-- Bayesian Data Analysis at Aalto (CS-E5710) course material, slides, video lectures, code demos, assignments https://github.com/avehtari/BDA_course_Aalto
-
 - CS229T/STATS231: Statistical Learning Theory, Stanford / Autumn 2018-2019. "Texts and References" section has a good set of course notes and links.  [https://web.stanford.edu/class/cs229t/](https://web.stanford.edu/class/cs229t/)
 
 - The Coursera Class: Statistics One, by Princeton [https://github.com/svkerr/Statistics_Class_Princeton](https://github.com/svkerr/Statistics_Class_Princeton)
@@ -111,16 +144,11 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018, by Gilbert Strang, https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
 
-- "A Student's Guide to Bayesian Statistics", by Ben Lambert https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG. More Bayesian Class Videos, https://discourse.mc-stan.org/t/bayesian-class-videos/3173
-
 - Statistical inference for data science, Brian Caffo. Full book on [http://rpubs.com/cbchisanga/143127](http://rpubs.com/cbchisanga/143127), videos on [https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ](https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ), GitHub version on [https://github.com/bcaffo/LittleInferenceBook](https://github.com/bcaffo/LittleInferenceBook)
 
 - Statistics 110: Probability, by Joe Blitzstein, https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo. The book "Introduction to Probability" https://twitter.com/stat110/status/1101502622358556674
 
 ## Books
-
-- [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking book and course, by Richard McElreath, 2022 edition. Slides, videos. Original [rethinking](https://github.com/rmcelreath/rethinking) GitHub repo. [Andrew Gelman's note about the book](https://andrewgelman.com/2016/01/15/mcelreaths-statistial-rethinking-a-bayesian-course-with-examples-in-r-and-stan/), [Video lectures](https://www.youtube.com/watch?v=kSgqH_eD1-0&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc).
-    - `Statistical-Rethinking` - An interactive online reading of McElreath's "Statistical Rethinking: A Bayesian Course with Examples in R and Stan" by Levi Waldron. https://github.com/lwaldron/Statistical-Rethinking
 
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) - book by Nick Huntington-Klein intended to introduce the concepts of research design and causality in the context of observational data. [GitHub](https://github.com/NickCH-K/causalbook), accompanying [Videos](https://nickchk.com/videos.html).
 
@@ -129,8 +157,6 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - [An Introduction to Statistical Learning](https://www.statlearning.com) - classic stats learning book by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
 
 - [practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists) - Practical Statistics for Data Scientists, 50+ Essential Concepts Using R and Python, by Peter Bruce, Andrew Bruce, and Peter Gedeck. Code repository for O'Reilly book
-
-- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com) by Alicia A. Johnson, Miles Ott, Mine Dogucu. [Tweet](https://twitter.com/Miles_Ott/status/1407101386437926913?s=20)
 
 - [Probabilistic Machine Learning](https://github.com/probml/pml-book) - a book series by Kevin Murphy. GitHub repo with links to buy and PDF download
 
@@ -141,8 +167,6 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - "Modern Statistics for Modern Biology" book by Susan Holmes and Wolfgang Huber. Data and code provided. https://www.huber.embl.de/msmb/index.html
 
 - "Causal Inference Book" by Miguel Hernan and  Jamie Robins. [https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
-
-- "A Bayesian Course with Examples in R and Stan" book sample, http://xcelab.net/rm/statistical-rethinking/. Link to the full video lectures on the topic, https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z
 
 - Notes and exercises for a classical free book "[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)" [https://github.com/asadoughi/stat-learning](https://github.com/asadoughi/stat-learning)
 
@@ -168,32 +192,11 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - [numerical-linear-algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) - Computational Linear Algebra for Coders by FastAI. [Video series](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY), [GitHub](https://github.com/fastai/numerical-linear-algebra)
 
-## Mixed models
-
-- [Mixed Models with R](https://m-clark.github.io/mixed-models-with-R/), Getting started with random effects, by [Michael Clark](http://m-clark.github.io). [GitHub](https://github.com/m-clark/mixed-models-with-R), [Tweet](https://twitter.com/statsdatasci/status/1483089238925185025?s=20).
-
-- [How Linear Mixed Model Works](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911) by Nikolay Oskolkov
-
-- [Introduction to linear mixed models](https://ourcodingclub.github.io/tutorials/mixed-models/) - mixed and random effects, R syntax. [GitHub](https://github.com/ourcodingclub/CC-Linear-mixed-models)
-
-- `CC-Linear-mixed-models` - Introduction to linear mixed models, https://ourcodingclub.github.io/tutorials/mixed-models/, https://github.com/ourcodingclub/CC-Linear-mixed-models
-
-
 ## Misc
 
 - [MANOVA(Multivariate Analysis of Variance) using R](https://www.statisticalaid.com/manova-using-r/) by [Statistical Aid](https://www.statisticalaid.com/)
 
-- "A Brief Introduction to Graphical Models and Bayesian Networks" By Kevin Murphy, 1998. http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
-
-- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view
-
-- Bayesian Data Analysis demos for Python. [https://github.com/avehtari/BDA_py_demos](https://github.com/avehtari/BDA_py_demos)
-
 - A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy. [http://deeplearning4j.org/eigenvector](http://deeplearning4j.org/eigenvector)
-
-- A Python tutorial on bayesian modeling techniques (PyMC3) [https://github.com/markdregan/Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
-
-- "Understanding Bayes" series of blog posts by Alex Etz. [http://alexanderetz.com/understanding-bayes/](http://alexanderetz.com/understanding-bayes/). The other posts are also worth reading.
 
 - `Goeman.pdf` - STATISTICAL METHODS FOR MICROARRAY DATA
 - `MPR04.pdf` - Introduction to Statistical Methods for Microarray Data Analysis
