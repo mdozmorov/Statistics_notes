@@ -14,6 +14,7 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - [Videos](#videos)
 - [Books](#books)
 - [Linear algebra](#linear-algebra)
+- [Mixed models](#mixed-models)
 - [Misc](#misc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -43,8 +44,6 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - `book_sample` - Another Book on Data Science. Learn R and Python in Parallel. Web, https://www.anotherbookondatascience.com/, GitHub, https://github.com/rnorm/book_sample
 
 - `bysh_book` - Repo for Feb 2018 version of Broadening Your Statistical Horizons [https://github.com/broadenyourstatisticalhorizons/bysh_book](https://github.com/broadenyourstatisticalhorizons/bysh_book). The rendered version can be found at: [https://bookdown.org/roback/bookdown-bysh/](https://bookdown.org/roback/bookdown-bysh/)
-
-- `CC-Linear-mixed-models` - Introduction to linear mixed models, https://ourcodingclub.github.io/tutorials/mixed-models/, https://github.com/ourcodingclub/CC-Linear-mixed-models
 
 - `CHE379` - Statistical refresher course by Chris A. Mack, From Data to Decisions: Measurement, Uncertainty, Analysis, and Modeling. Videos, esercises, slides in PDF. [http://www.lithoguru.com/scientist/statistics/course.html](http://www.lithoguru.com/scientist/statistics/course.html). Video playlist [https://www.youtube.com/playlist?list=PLM2eE_hI4gSDnF-mEa9mrIYx7GCLQVN89](https://www.youtube.com/playlist?list=PLM2eE_hI4gSDnF-mEa9mrIYx7GCLQVN89)
 
@@ -169,15 +168,18 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - [numerical-linear-algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) - Computational Linear Algebra for Coders by FastAI. [Video series](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY), [GitHub](https://github.com/fastai/numerical-linear-algebra)
 
+## Mixed models
+
+- [How Linear Mixed Model Works](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911) by Nikolay Oskolkov
+
+- [Introduction to linear mixed models](https://ourcodingclub.github.io/tutorials/mixed-models/) - mixed and random effects, R syntax. [GitHub](https://github.com/ourcodingclub/CC-Linear-mixed-models)
+
+- `CC-Linear-mixed-models` - Introduction to linear mixed models, https://ourcodingclub.github.io/tutorials/mixed-models/, https://github.com/ourcodingclub/CC-Linear-mixed-models
 
 
 ## Misc
 
 - [MANOVA(Multivariate Analysis of Variance) using R](https://www.statisticalaid.com/manova-using-r/) by [Statistical Aid](https://www.statisticalaid.com/)
-
-- [How Linear Mixed Model Works](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911) by Nikolay Oskolkov
-
-- [Introduction to linear mixed models](https://ourcodingclub.github.io/tutorials/mixed-models/) - mixed and random effects, R syntax. [GitHub](https://github.com/ourcodingclub/CC-Linear-mixed-models)
 
 - "A Brief Introduction to Graphical Models and Bayesian Networks" By Kevin Murphy, 1998. http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
 
