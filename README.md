@@ -170,6 +170,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Mixed models
 
+- [Mixed Models with R](https://m-clark.github.io/mixed-models-with-R/), Getting started with random effects, by [Michael Clark](http://m-clark.github.io). [GitHub](https://github.com/m-clark/mixed-models-with-R), [Tweet](https://twitter.com/statsdatasci/status/1483089238925185025?s=20).
+
 - [How Linear Mixed Model Works](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911) by Nikolay Oskolkov
 
 - [Introduction to linear mixed models](https://ourcodingclub.github.io/tutorials/mixed-models/) - mixed and random effects, R syntax. [GitHub](https://github.com/ourcodingclub/CC-Linear-mixed-models)
