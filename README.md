@@ -24,7 +24,7 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Cheatsheets
 
-- [probability_cheatsheet](http://www.wzchen.com/probability-cheatsheetб https://github.com/wzchen/probability_cheatsheet) - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. 
+- [probability_cheatsheet](http://www.wzchen.com/probability-cheatsheet) - A comprehensive 10-page PDF probability cheatsheet that covers a semester's worth of introduction to probability, by William Chen (http://wzchen.com) and Joe Blitzstein (http://stat110.net).
 
 - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 
