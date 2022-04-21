@@ -150,6 +150,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Books
 
+- [Improving Your Statistical Inferences](https://github.com/Lakens/statistical_inferences)  by Daniël Lakens. [Website](https://lakens.github.io/statistical_inferences/index.html)
+
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) - book by Nick Huntington-Klein intended to introduce the concepts of research design and causality in the context of observational data. [GitHub](https://github.com/NickCH-K/causalbook), accompanying [Videos](https://nickchk.com/videos.html).
 
 - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) - book by Carl Edward Rasmussen and Christopher K. I. Williams. 
