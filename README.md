@@ -184,6 +184,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) book by Cosma Rohilla Shalizi, PDF, 828 pages. Statistics, with R examples
 
+- [Applied Statistics with R](https://book.stat420.org/) by David Dalpiaz. [GitHub](https://github.com/daviddalpiaz/appliedstats)
+
 ## Linear algebra
 
 - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
