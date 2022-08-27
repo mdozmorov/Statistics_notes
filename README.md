@@ -74,6 +74,9 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - `CC-Linear-mixed-models` - Introduction to linear mixed models, https://ourcodingclub.github.io/tutorials/mixed-models/, https://github.com/ourcodingclub/CC-Linear-mixed-models
 
 
+- [julianfaraway/rexamples](https://github.com/julianfaraway/rexamples) - mixed effect model examples from two chapters of Julian Faraway's book [Extending the Linear Model with R](https://julianfaraway.github.io/faraway/ELM/). Each model is fit using several different methods: lme4, INLA, STAN, BRMS, MGCV. Another useful book: [Bayesian Regression Modeling with INLA](https://julianfaraway.github.io/brinlabook/index.html)
+
+
 ## Repositories
 
 - `brr` - "Biostatistics for Biomedical Research" by Frank Harrell, the creator of `Hmisc` package and many more. [https://github.com/harrelfe/bbr](https://github.com/harrelfe/bbr). Video lectures, https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA
