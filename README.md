@@ -189,6 +189,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - [Applied Statistics with R](https://book.stat420.org/) by David Dalpiaz. [GitHub](https://github.com/daviddalpiaz/appliedstats)
 
+- [the_statistics_handbook](https://github.com/carloocchiena/the_statistics_handbook) - the statistics handbook open source repository.
+
 ## Linear algebra
 
 - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
