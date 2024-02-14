@@ -135,6 +135,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - Introduction to Statistics for Biologists, by [Peter Ralph](http://ralphlab.usc.edu/). [https://github.com/petrelharp/bisc305](https://github.com/petrelharp/bisc305)
 
+- Introduction to Probability and Statistics, [stat20.org](https://www.stat20.org/). [GitHub](https://www.stat20.org/)
+
 - Data wrangling, exploration, and analysis with R, UBC STAT 545A and 547M courses. [https://stat545-ubc.github.io/](https://stat545-ubc.github.io/) and the Git repository [https://github.com/STAT545-UBC/STAT545-UBC.github.io](https://github.com/STAT545-UBC/STAT545-UBC.github.io)
 
 - Harvard CS 109: Data Science course with video lectures, pdf slides and iPython notebooks. [Course overview](https://cs109.github.io/2015/), [Videos](https://cs109.github.io/2015/pages/videos.html), [Git repository](https://github.com/cs109/2015), [All course-related material on Github](https://github.com/cs109)
