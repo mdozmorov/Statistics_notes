@@ -32,6 +32,11 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Bayesian
 
+- Bayesian statistics and modeling primer. Methods and applications overview, terminology description. Prior distributions, elicitation, uncertainty. Model fitting using MCMC, other methods (Table 1). Applications in behavioural sciences, ecology, genetics. Reproducibility considerations. Table 2 - Bayesian inference software, various OSs and languages. Box 1 - Bayes theorem explanation. Box 2 - Bayes factors. Box 3 - likelihood function. Box 5 - WAMBS (when to Worry and how to Avoid the Misuse of Bayesian Statistics) checklist. Many references. <details>
+    <summary>Paper</summary>
+    Schoot, Rens van de, Sarah Depaoli, Ruth King, Bianca Kramer, Kaspar Märtens, Mahlet G Tadesse, Marina Vannucci, et al. “Bayesian Statistics and Modelling,” 2021, 26. https://doi.org/10.1038/ s43586-020-00001-2
+</details>
+
 - [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking book and course, by Richard McElreath, 2022 edition. Slides, videos. Original [rethinking](https://github.com/rmcelreath/rethinking) GitHub repo. [Andrew Gelman's note about the book](https://andrewgelman.com/2016/01/15/mcelreaths-statistial-rethinking-a-bayesian-course-with-examples-in-r-and-stan/), [Video lectures](https://www.youtube.com/watch?v=kSgqH_eD1-0&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc).
     - `Statistical-Rethinking` - An interactive online reading of McElreath's "Statistical Rethinking: A Bayesian Course with Examples in R and Stan" by Levi Waldron. https://github.com/lwaldron/Statistical-Rethinking
 
