@@ -128,6 +128,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Courses
 
+- [fastStat](https://github.com/matloff/fastStat) - Quick introduction to statistics for those with a probability background, by Norm Matloff. Also, [fastBigStat](https://github.com/matloff/fastBigStat)
+
 - [intro-gam-webinar-2020](https://github.com/gavinsimpson/intro-gam-webinar-2020) - Introduction to Generalized Additive Models with R and mgcv, by Gavin Simpson. Video, slides, code
 
 - [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) Fall 2020 course by Brady Neal. Video, lecture material. [Twitter](https://twitter.com/CasualBrady/status/1297626885481017345?s=20)
