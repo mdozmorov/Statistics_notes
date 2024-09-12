@@ -30,6 +30,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 - [Resources for learning about the history of statistics and statisticians. By statisticians, for statisticians](https://github.com/sctyner/history_of_statistics) - references to blog posts, books, journal articles, podcasts, interviews, news, and other material about the history of statistics
 
+- [Distribution explorer](https://distribution-explorer.github.io/index.html) - Overview and examples of various distributions (univariate/multivariate, categorical/continuous), their parameters, interdependencies. Code in numpy, scipy, Stan.
+
 ## Bayesian
 
 - Bayesian statistics and modeling primer. Methods and applications overview, terminology description. Prior distributions, elicitation, uncertainty. Model fitting using MCMC, other methods (Table 1). Applications in behavioural sciences, ecology, genetics. Reproducibility considerations. Table 2 - Bayesian inference software, various OSs and languages. Box 1 - Bayes theorem explanation. Box 2 - Bayes factors. Box 3 - likelihood function. Box 5 - WAMBS (when to Worry and how to Avoid the Misuse of Bayesian Statistics) checklist. Many references. <details>
