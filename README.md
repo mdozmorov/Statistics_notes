@@ -214,6 +214,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Misc
 
+- [applied_statistics_2024](https://github.com/pileyan/applied_statistics_2024) - Курс по прикладной статистике ВШЭ (2024). 
+
 - [MANOVA(Multivariate Analysis of Variance) using R](https://www.statisticalaid.com/manova-using-r/) by [Statistical Aid](https://www.statisticalaid.com/)
 
 - A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy. [http://deeplearning4j.org/eigenvector](http://deeplearning4j.org/eigenvector)
