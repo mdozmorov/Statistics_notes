@@ -11,7 +11,7 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 
 - [Cheatsheets](#cheatsheets)
-- [Sur]
+- [Survival](#survival)
 - [Bayesian](#bayesian)
 - [Mixed models](#mixed-models)
 - [Repositories](#repositories)
@@ -35,7 +35,8 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Survival
 
-- A collection of four-part articles covering basic concepts (survival and hazard, Kaplan-Meyer estimate, log-rank and nonparametric tests for survival differences), multivariate approaches (Cox proportional hazards model, parametric PH models, accelerated failure time models, stratified survival analysis), sample size considerations (with covariates), model selection, quality (Martingale residual plots), advanced topics (missing data). Mentions [nQuery](https://www.statsols.com/) software for clinical trials power analysis. <details>
+- A collection of four-part articles covering basic concepts (survival and hazard, Kaplan-Meyer estimate, log-rank and nonparametric tests for survival differences), multivariate approaches (Cox proportional hazards model, parametric PH models, accelerated failure time models, stratified survival analysis), sample size considerations (with covariates), model selection, quality (Martingale residual plots), advanced topics (missing data). Mentions [nQuery](https://www.statsols.com/) software for clinical trials power analysis. 
+<details>
     <summary>Paper 1</summary>
     Clark, T G, M J Bradburn, S B Love, and D G Altman. “Survival Analysis Part I: Basic Concepts and First Analyses.” British Journal of Cancer 89, no. 2 (July 2003): 232–38. https://doi.org/10.1038/sj.bjc.6601118.
 </details>
