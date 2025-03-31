@@ -11,6 +11,7 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 
 - [Cheatsheets](#cheatsheets)
+- [Sur]
 - [Bayesian](#bayesian)
 - [Mixed models](#mixed-models)
 - [Repositories](#repositories)
@@ -31,6 +32,26 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 - [Resources for learning about the history of statistics and statisticians. By statisticians, for statisticians](https://github.com/sctyner/history_of_statistics) - references to blog posts, books, journal articles, podcasts, interviews, news, and other material about the history of statistics
 
 - [Distribution explorer](https://distribution-explorer.github.io/index.html) - Overview and examples of various distributions (univariate/multivariate, categorical/continuous), their parameters, interdependencies. Code in numpy, scipy, Stan.
+
+## Survival
+
+- A collection of four-part articles covering basic concepts (survival and hazard, Kaplan-Meyer estimate, log-rank and nonparametric tests for survival differences), multivariate approaches (Cox proportional hazards model, parametric PH models, accelerated failure time models, stratified survival analysis), sample size considerations (with covariates), model selection, quality (Martingale residual plots), advanced topics (missing data). Mentions [nQuery](https://www.statsols.com/) software for clinical trials power analysis. <details>
+    <summary>Paper 1</summary>
+    Clark, T G, M J Bradburn, S B Love, and D G Altman. “Survival Analysis Part I: Basic Concepts and First Analyses.” British Journal of Cancer 89, no. 2 (July 2003): 232–38. https://doi.org/10.1038/sj.bjc.6601118.
+</details>
+<details>
+    <summary>Paper 2</summary>
+    Bradburn, M J, T G Clark, S B Love, and D G Altman. “Survival Analysis Part II: Multivariate Data Analysis – an Introduction to Concepts and Methods.” British Journal of Cancer 89, no. 3 (August 2003): 431–36. https://doi.org/10.1038/sj.bjc.6601119.
+</details>
+<details>
+    <summary>Paper 3</summary>
+    Bradburn, M J, T G Clark, S B Love, and D G Altman. “Survival Analysis Part III: Multivariate Data Analysis – Choosing a Model and Assessing Its Adequacy and Fit.” British Journal of Cancer 89, no. 4 (August 2003): 605–11. https://doi.org/10.1038/sj.bjc.6601120.
+</details>
+<details>
+    <summary>Paper 4</summary>
+    Clark, T G, M J Bradburn, S B Love, and D G Altman. “Survival Analysis Part IV: Further Concepts and Methods in Survival Analysis.” British Journal of Cancer 89, no. 5 (September 2003): 781–86. https://doi.org/10.1038/sj.bjc.6601117.
+</details>
+
 
 ## Bayesian
 
