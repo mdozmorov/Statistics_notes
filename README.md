@@ -56,6 +56,11 @@ Statistics learning and data analysis resources. Please, [contribute and get in 
 
 ## Bayesian
 
+- Bayesian statistics overview and contrasting with frequentist approach. Intuition for the prior probability of a given explanation, the likelihood of obtaining the observed data given that explanation, and the posterior probability of a given explanation after combining the prior with the observed likelihood. Added benefits when applied to clinical trials. <details>
+    <summary>Paper</summary>
+    Goligher, Ewan C, Anna Heath, and Michael O Harhay. “Bayesian Statistics for Clinical Research.” The Lancet 404, no. 10457 (2024): 1067–76. https://doi.org/10.1016/S0140-6736(24)01295-9.
+</details>
+
 - Bayesian statistics and modeling primer. Methods and applications overview, terminology description. Prior distributions, elicitation, uncertainty. Model fitting using MCMC, other methods (Table 1). Applications in behavioural sciences, ecology, genetics. Reproducibility considerations. Table 2 - Bayesian inference software, various OSs and languages. Box 1 - Bayes theorem explanation. Box 2 - Bayes factors. Box 3 - likelihood function. Box 5 - WAMBS (when to Worry and how to Avoid the Misuse of Bayesian Statistics) checklist. Many references. <details>
     <summary>Paper</summary>
     Schoot, Rens van de, Sarah Depaoli, Ruth King, Bianca Kramer, Kaspar Märtens, Mahlet G Tadesse, Marina Vannucci, et al. “Bayesian Statistics and Modelling,” 2021, 26. https://doi.org/10.1038/ s43586-020-00001-2
